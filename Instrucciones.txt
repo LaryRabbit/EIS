@@ -1,0 +1,4 @@
+To Do
+
+1.- Días preferentes -> Día preferente 	SolicitarCita.php
+2.- No modificar las solicitudes aceptadas VerSolicitudesCita.php
